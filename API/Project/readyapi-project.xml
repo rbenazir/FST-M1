@@ -302,7 +302,7 @@
     <con:oAuth20AuthEntry>
       <con:name>oauth</con:name>
       <con:type>OAuth 2.0</con:type>
-      <con:accessToken>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</con:accessToken>
+      <con:accessToken>accessToken</con:accessToken>
       <con:accessTokenPosition>HEADER</con:accessTokenPosition>
       <con:accessTokenStatus>ENTERED_MANUALLY</con:accessTokenStatus>
       <con:accessTokenStartingStatus>ENTERED_MANUALLY</con:accessTokenStartingStatus>
@@ -314,3 +314,4 @@
   </con:authRepository>
   <con:tags/>
 </con:soapui-project>
+
